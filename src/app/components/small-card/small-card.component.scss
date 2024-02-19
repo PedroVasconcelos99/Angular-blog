@@ -1,5 +1,5 @@
 .container__small-card {
-    border: 1px solid white;
+    // border: 1px solid white;
     width: 700px;
     margin-bottom: 15px;
     .container__small-card-content {
@@ -11,7 +11,7 @@
 
 .small-card__photo {
     img {
-        width:200px;
+        width:300px;
         min-width: 200px;
         margin-right: 20px;
     }
@@ -24,5 +24,5 @@
 }
 
 .small-card__separator {
-
+    margin-top: 10px;
 }
